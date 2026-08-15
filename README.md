@@ -1,6 +1,6 @@
-# Prototype Development
+# 2D Mini-Game Course Project
 
-This repository contains a Unity group assignment developed by a four-member team.
+This repository contains a 2D mini-game developed by a four-member team as a course project.
 
 ## Group members
 
