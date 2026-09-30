@@ -7,7 +7,7 @@ This repository contains a 2D mini-game developed by a four-member team as a cou
 - [@Eivouk](https://github.com/Eivouk)
 - `@ghy123123123`
 - [@Wallaby-Wang](https://github.com/Wallaby-Wang)
-- GitHub account to be added
+- GitHub account to be added (zyy)
 
 ## Unity version
 
